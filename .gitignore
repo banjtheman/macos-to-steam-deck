@@ -1,0 +1,5 @@
+__pycache__/
+*.pyc
+.DS_Store
+# A games list kept beside the tool on one Mac (projects keep their own).
+games.json

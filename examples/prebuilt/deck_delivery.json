@@ -1,0 +1,10 @@
+{
+  "games": [
+    {
+      "id": "MyGame",
+      "name": "My Game",
+      "folder": "MyGame-linux",
+      "run": "./MyGame.x86_64 --windowed"
+    }
+  ]
+}

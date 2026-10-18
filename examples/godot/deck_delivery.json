@@ -1,0 +1,11 @@
+{
+  "games": [
+    {
+      "id": "MyGame",
+      "name": "My Game",
+      "build": "bash tools/build_linux.sh",
+      "folder": "build/linux",
+      "run": "./MyGame.x86_64"
+    }
+  ]
+}
